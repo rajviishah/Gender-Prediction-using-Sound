@@ -2,8 +2,11 @@
 Analyzed the gender distribution of children's book writers(dataset) and use sound name matching to match names to gender.
 
 Project Name: Gender Prediction using Sound
+
 Programming language: Python
+
 Python libraries used: Pandas,NumPy, Matplotlib and fuzzy
+
 Purpose of the project: To understand and implement pandas, numpy and matplotlib for real-time data.
 
 Project Description:
@@ -18,4 +21,5 @@ In this project, gender of the author is predicted on the basis of the sound of 
 5) To showcase author by gender(male and female), graph was plotted with number of females and male numbers with respective years. 
 
 Challenge:
+
 Few author’s name is categorized as unidentified due to data collection limitation(it is collected from social security of US and it may possible that unidentified authors are foreigners).
